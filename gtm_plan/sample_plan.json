@@ -1,0 +1,23 @@
+{
+  "target_market": "Small product teams adopting a Python-backed planning workflow",
+  "journey_stages": ["discover", "evaluate", "adopt", "retain"],
+  "channels": [
+    {"name": "Search", "stages": ["discover"]},
+    {"name": "Product demo", "stages": ["evaluate"]},
+    {"name": "Onboarding email", "stages": ["adopt"]}
+  ],
+  "content": [
+    {"name": "Problem guide", "stage": "discover", "job": "Explain the problem"},
+    {"name": "Demo brief", "stage": "evaluate", "job": "Support evaluation"},
+    {"name": "Activation guide", "stage": "adopt", "job": "Help first use"}
+  ],
+  "metrics": [
+    {"name": "Website visits", "stage": "discover", "kind": "leading"},
+    {"name": "Activation rate", "stage": "adopt", "kind": "adoption"},
+    {"name": "Recurring revenue", "stage": "retain", "kind": "revenue"}
+  ],
+  "launch_items": [
+    {"name": "Sales training", "owner": "Sales enablement", "readiness_check": ""},
+    {"name": "Announcement", "owner": "Marketing", "readiness_check": "Copy approved"}
+  ]
+}
