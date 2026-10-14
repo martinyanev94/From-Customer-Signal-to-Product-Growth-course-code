@@ -1,0 +1,17 @@
+[
+  {
+    "evidence_ref": "INT-014-Q3",
+    "code": "reporting_effort",
+    "impact": "weekly reports take half a day to assemble"
+  },
+  {
+    "evidence_ref": "INT-021-Q2",
+    "code": "prioritization_uncertainty",
+    "impact": "teams cannot tell which alerts deserve attention"
+  },
+  {
+    "evidence_ref": "INT-027-Q4",
+    "code": "outcome_visibility",
+    "impact": "leaders ask for proof that customer work changed an outcome"
+  }
+]
