@@ -1,0 +1,25 @@
+{
+  "product": {
+    "name": "SignalDesk",
+    "description": "A workspace that turns support conversations into searchable decisions.",
+    "research_decision": "Which customer problem should receive the next investment?"
+  },
+  "inbound": {
+    "owner": "Product marketing",
+    "decision_focus": "What should the product learn, prioritize, and release?",
+    "stakeholders": ["Product management", "UX", "Customer support"]
+  },
+  "outbound": {
+    "owner": "Product marketing",
+    "decision_focus": "Which customers should we reach, enable, and retain?",
+    "stakeholders": ["Sales", "Customer success", "Business development"]
+  },
+  "stakeholders": [
+    {"name": "Product management", "lane": "inbound", "contribution": "Evaluate roadmap options"},
+    {"name": "UX", "lane": "inbound", "contribution": "Interpret user experience problems"},
+    {"name": "Customer support", "lane": "inbound", "contribution": "Surface recurring customer friction"},
+    {"name": "Sales", "lane": "outbound", "contribution": "Report buying objections and deal context"},
+    {"name": "Customer success", "lane": "outbound", "contribution": "Report adoption and retention friction"},
+    {"name": "Business development", "lane": "outbound", "contribution": "Identify market and partner context"}
+  ]
+}
