@@ -1,0 +1,38 @@
+[
+  {
+    "id": "case-study-reporting-01-v21",
+    "asset_key": "case-study-reporting-01",
+    "title": "Northstar reduces manual reporting",
+    "stage": "consideration",
+    "audience": "prospect",
+    "use_case": "answer_manual_reporting_objection",
+    "owner": "content-marketing",
+    "version": "2.1",
+    "status": "current",
+    "next_action": "review_metrics_before_q3_enablement"
+  },
+  {
+    "id": "case-study-reporting-01-v20",
+    "asset_key": "case-study-reporting-01",
+    "title": "Northstar reduces manual reporting",
+    "stage": "consideration",
+    "audience": "prospect",
+    "use_case": "answer_manual_reporting_objection",
+    "owner": "content-marketing",
+    "version": "2.0",
+    "status": "archived",
+    "next_action": "none"
+  },
+  {
+    "id": "onboarding-reporting-01-v10",
+    "asset_key": "onboarding-reporting-01",
+    "title": "Reporting onboarding guide",
+    "stage": "post_purchase",
+    "audience": "customer_success",
+    "use_case": "start_adoption",
+    "owner": "customer-success",
+    "version": "1.0",
+    "status": "current",
+    "next_action": "confirm_first_value_review"
+  }
+]
