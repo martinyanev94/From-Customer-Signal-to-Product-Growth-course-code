@@ -1,0 +1,2 @@
+# From-Customer-Signal-to-Product-Growth-course-code
+Learn a practical product marketing operating system that turns customer signals into roadmap, positioning, launch, enablement, and growth decisions. This standalone course shows how Python-backed planning artifacts and validation checks can make product marketing workflows traceable and testable. You’ll learn how to: - Translate market research an
