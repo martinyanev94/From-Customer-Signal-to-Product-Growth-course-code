@@ -1,0 +1,26 @@
+{
+  "decision": "Reduce friction in incident review?",
+  "participants": {
+    "include": [
+      "completed review in last 30 days",
+      "abandoned review in last 30 days"
+    ],
+    "exclude": ["no permission for research contact"],
+    "target_count": 8
+  },
+  "interview_guide": {
+    "opening": "Walk me through your last incident review.",
+    "sequence": ["What did you expect next?", "Where did you pause?"],
+    "probes": ["What workaround did you use?", "What happened afterward?"],
+    "closing": "What would make sharing the review easier?"
+  },
+  "methods": ["semi_structured_interview", "workflow_survey", "usage_signal"],
+  "capture": {
+    "consent_status": "pending",
+    "recording_allowed": false,
+    "quote_permission": false,
+    "pii_redacted": true,
+    "retention_days": 90
+  },
+  "decision_owner": "product_manager"
+}
