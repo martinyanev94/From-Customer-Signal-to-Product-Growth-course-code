@@ -1,0 +1,23 @@
+[
+  {
+    "insight_id": "I-014",
+    "evidence_ref": "interview-014",
+    "theme": "first-data-source friction",
+    "unmet_need": "guided path from account creation to first successful import",
+    "category": "product"
+  },
+  {
+    "insight_id": "I-022",
+    "evidence_ref": "call-022",
+    "theme": "pricing explanation unclear during evaluation",
+    "unmet_need": "buyer-ready value proof",
+    "category": "sales"
+  },
+  {
+    "insight_id": "I-031",
+    "evidence_ref": "survey-031",
+    "theme": "simpler renewal reporting",
+    "unmet_need": "clearer renewal health view",
+    "category": ""
+  }
+]
